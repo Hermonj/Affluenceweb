@@ -350,9 +350,9 @@ body:before {
   margin-bottom: 30px;
 }
 .main-blog {
-  background-image: url("https://assets.codepen.io/3364143/skate-removebg-preview.png");
-  background-size: 80%;
-  background-position-x: 150px;
+  background-image: url("https://github.com/Hermonj/Affluenceweb/blob/main/Untitled%20design%20(1).jpg?raw=true");
+  background-size: 150%;
+  background-position-x: px;
   background-color: #31abbd;
   display: flex;
   flex-direction: column;
@@ -368,10 +368,11 @@ body:before {
 .main-blog + .main-blog {
   margin-left: 20px;
   width: 35%;
-  background-image: url(https://c0.anyrgb.com/images/1020/945/venice-beach-2018-outdoors-sport-men-jumping-desert-sunset-extreme-sports-one-person-action.jpg);
+  background-image: url(https://github.com/Hermonj/Affluenceweb/blob/main/Untitled%20design.jpg?raw=true);
+
   background-color: unset;
-  background-position-x: 0;
-  background-size: 139%;
+  background-position-x: -80px;
+  background-size: 300%;
   filter: saturate(1.4);
 }
 .main-blog + .main-blog .author-img {
